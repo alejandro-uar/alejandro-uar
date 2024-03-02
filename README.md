@@ -1,8 +1,10 @@
-![Img dev](img-git.png)
+<p align="center">
+  <img src="img-git.png" width="50%" />
+</p>
 ___
 
-# <center>Hi👋, I'm Alejandro</center>
-# <center>Backend web developer | Computer technician</center>
+<h1 align="center">Hi👋, I'm Alejandro</h1>
+<h2 align="center">Backend web developer | Computer technician</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-luna-72020b208/">
@@ -28,7 +30,7 @@ Hello everyone! I'm Alejandro, a web development enthusiast with a passion for b
 
 #### Frontend:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 #### Backend:
 
@@ -41,4 +43,4 @@ Hello everyone! I'm Alejandro, a web development enthusiast with a passion for b
 
 #### Others:
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
