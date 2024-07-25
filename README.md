@@ -4,7 +4,7 @@
 ___
 
 <h1 align="center">Hola👋, soy Alejandro</h1>
-<h2 align="center">Programador backend | Tec Informática</h2>
+<h2 align="center">Developer | Tec Informática</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-luna-72020b208/">
