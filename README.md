@@ -20,7 +20,7 @@ ___
 
 
 ## <img src="about_me.gif" width="30" /> Sobre mi
-Desarrollador backend junior con experiencia en Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS y MySQL. Apasionado por el aprendizaje continuo y comprometido con mejorar constantemente mis habilidades y conocimientos.
+Desarrollador web  con experiencia en lado del frontEnd y backend, utilizando las siguientes tecnologías. Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS y MySQL. Apasionado por el aprendizaje continuo y comprometido con mejorar constantemente mis habilidades y conocimientos.
 
 ## <img src="dev.gif" width="22" /> Herramientas
 
