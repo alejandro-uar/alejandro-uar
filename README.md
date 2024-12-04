@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="img-git.png" width="50%" />
-</p>
+![Copia de Banner para Linkedin Profesional Negro](https://github.com/user-attachments/assets/5affbe68-b2b5-40e7-824a-2d4df0c80ff5)
 ___
 
 <h1 align="center">Hola👋, soy Alejandro</h1>
@@ -20,12 +18,23 @@ ___
 
 
 ## <img src="about_me.gif" width="30" /> Sobre mi
-Desarrollador web  con experiencia en lado del frontEnd y backend, utilizando las siguientes tecnologías. Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS y MySQL. Apasionado por el aprendizaje continuo y comprometido con mejorar constantemente mis habilidades y conocimientos.
+Soy desarrollador web con experiencia tanto en el front-end como en el back-end. Me considero una persona proactiva, autodidacta y siempre en busca de nuevas oportunidades de aprendizaje continuo. A lo largo de mis proyectos personales y académicos, he trabajado con diversas tecnologías, siempre busco mejorar mis habilidades y optimizar mis procesos de desarrollo para crear soluciones innovadoras y eficientes.
 
 ## <img src="dev.gif" width="22" /> Herramientas
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![NPM](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
