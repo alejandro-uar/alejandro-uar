@@ -34,6 +34,7 @@ Soy desarrollador web con experiencia tanto en el front-end como en el back-end.
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
